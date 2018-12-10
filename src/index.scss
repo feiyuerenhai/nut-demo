@@ -1,0 +1,18 @@
+$primary-color: yellow;
+
+.card{
+	.title{
+		color: red;
+	}
+	.skill{
+		&:before{
+			content: '-';
+			padding-right: 4px;
+		}
+		display: inline-block;
+		background: #dadada;
+		padding: 0px 6px;
+		margin-right: 6px;
+		cursor: pointer;
+	}
+}

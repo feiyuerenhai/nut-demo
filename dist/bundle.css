@@ -1,0 +1,15 @@
+.card .title {
+  color: red; }
+
+.card .skill {
+  display: inline-block;
+  background: #dadada;
+  padding: 0px 6px;
+  margin-right: 6px;
+  cursor: pointer; }
+  .card .skill:before {
+    content: '-';
+    padding-right: 4px; }
+
+span {
+  color: yellow; }
