@@ -31313,7 +31313,7 @@ var App = function (_Component) {
         }, __self: this
       }, jack.say()), _react2['default'].createElement('div', {
         __self: this
-      }, _react2['default'].createElement(_Card2['default'], { name: 'hello', __self: this
+      }, _react2['default'].createElement(_Card2['default'], { name: 'Ji', __self: this
       }), _react2['default'].createElement('span', { className: 'skill', __self: this
       }, 'aha')));
     }
