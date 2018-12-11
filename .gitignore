@@ -21,9 +21,4 @@ bower_components/
 node_modules/
 *.log
 !.editorconfig
-!.kylerc.json
 !.gitignore
-
-
-.justconf
-
